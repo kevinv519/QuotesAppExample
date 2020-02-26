@@ -1,6 +1,5 @@
 package com.example.quotesapp.data.repository
 
-import androidx.lifecycle.LiveData
 import com.example.quotesapp.data.db.QuoteDao
 import com.example.quotesapp.data.model.Quote
 

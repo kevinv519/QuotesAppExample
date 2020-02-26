@@ -1,4 +1,4 @@
-package com.example.quotesapp.data
+package com.example.quotesapp.data.model
 
 data class Quote(val quoteText: String,
                  val author: String) {
